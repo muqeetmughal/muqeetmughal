@@ -25,13 +25,13 @@ Hi there, I'm <b>Muqeet Mughal</b>, A Self Taught Full Stack Developer and a Com
 Here is my portfolio website:
 
 <h3>
-    I am an aspiring Web Developer and UI/UX Designer
+    I am an aspiring Web Application and Mobile Application Developer
 </h3>
 
 - 🌱 I’m currently learning Django, FastAPI, React, Vue.js, Blockchain, Web3, MERN Stack, Mobile development
 - 👯 I’m looking to collaborate on any Web Devlopment or Frontend Project
 - 📫 Mail me at hello@muqeetmughal.com
-- 🙆‍♂️ Check out my [Portfolio](https://muqeetmughal.com/)
+- 🙆‍♂️ Check out my [Portfolio](https://muqeet.dev/)
 - ⚡ Fun fact: My body is surviving on coffee. You can buy me one on [BuyMeACoffee](https://buymeacoffee.com/muqeet)
 
 <h3>How to reach me?!</h3>
