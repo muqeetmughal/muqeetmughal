@@ -33,7 +33,7 @@ Here is my portfolio website:
 \
 &nbsp;
 
-# :man_technologist: 👨‍💻 Languages and Tools
+# :man_technologist: Languages and Tools
 
 <br>
 
