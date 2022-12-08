@@ -212,15 +212,6 @@ Here is my portfolio website:
     
 </table>
 
-## Stats
-<span style="	display:flex;
-	align-items:center;
-	justify-content:space-between;">
-<img width="430px" src="https://github-readme-stats.vercel.app/api?username=muqeetmughal&show_icons=true&theme=radical&hide_border=true" alt="Muqeet's github stats" />
-<img align="right" style="width: 365px;transform: translateY(-13px);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqeetmughal&layout=compact" alt="sami-malik" /></span>
-
-![Gihub stas](https://activity-graph.herokuapp.com/graph?username=muqeetmughal&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
-
 
 ## Web Performance Stats
 
