@@ -5,32 +5,17 @@
 
 <h3>Glad to see you here!</h3>  
 
-<a href="https://www.linkedin.com/in/muqeetmughal/" >
-  <img align="left" alt="Sami's LinkdeIn" width="22px" src="https://www.iconsdb.com/icons/preview/color/FFC107/linkedin-3-xxl.png" />
-</a>
-<a href="https://twitter.com/developermuqeet">
-  <img align="left" alt="Sami's Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/color/FFC107/twitter-3-xxl.png" />
-</a>
-<a href="https://www.instagram.com/muqeetmughal786">
-  <img align="left" alt="Sami's Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/color/FFC107/instagram-xxl.png" />
-</a>
-<a href="https://www.facebook.com/muqeetmughal786">
-  <img align="left" alt="Sami's FB" width="22px" src="https://www.iconsdb.com/icons/preview/color/FFC107/facebook-3-xxl.png" />
-</a>
-
-<br />
 <br />
 Hi there, I'm <b>Muqeet Mughal</b>, A Self Taught Full Stack Developer and a Computer Sciences Student 🚀  from <b>Lahore Garrison University</b>. I've been developing websites and experimenting with web technologies since I was 14 and honestly I love messing up with code and coming up with better solutions than the previous one.
-<br />
 Here is my portfolio website:
 
 <h3>
     I am an aspiring Web Application and Mobile Application Developer
 </h3>
 
-- 🌱 I’m currently learning Django, FastAPI, React, Vue.js, Blockchain, Web3, MERN Stack, Mobile development
+- 🌱 Ask me about <b>Django, FastAPI, React, React Native,Flutter, Vue.js, Angular , Blockchain, Web3, MERN Stack, Mobile development</b>
 - 👯 I’m looking to collaborate on any Web Devlopment or Frontend Project
-- 📫 Mail me at hello@muqeetmughal.com
+- 📫 Mail me at muqeetmughal786@gmail.com
 - 🙆‍♂️ Check out my [Portfolio](https://muqeet.dev/)
 - ⚡ Fun fact: My body is surviving on coffee. You can buy me one on [BuyMeACoffee](https://buymeacoffee.com/muqeet)
 
@@ -42,7 +27,7 @@ Here is my portfolio website:
     📕 Blogs and Articles
 </h3>
 
-- Check out my blogs on [Blog](https://muqeetmughal.com/blog)
+- Check out my blogs on [Blog](https://muqeet.dev/blog)
 
 
 \
