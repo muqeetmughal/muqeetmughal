@@ -179,7 +179,7 @@ Here is my portfolio website:
       <br>Styled Components
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#muqeetmughal">
         <img src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg" width="48" height="48" alt="Heroku" />
       </a>
       <br>Heroku
