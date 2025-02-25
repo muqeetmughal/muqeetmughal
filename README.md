@@ -1,33 +1,33 @@
 
-<img align="center" width="900" height="50" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23FFC107&size=35&center=true&vCenter=true&lines=Muqeet%20Mughal" />
+<img align="center" width="900" height="50" src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=%23FFC107&size=45&center=true&vCenter=true&lines=Muqeet%20Mughal" />
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
 <h3>Glad to see you here!</h3>  
 
 <br />
-Hi there, I'm <b>Muqeet Mughal</b>, A Self Taught Full Stack Developer and a Computer Sciences Student 🚀  from <b>Lahore Garrison University</b>. I've been developing websites and experimenting with web technologies since I was 14 and honestly I love messing up with code and coming up with better solutions than the previous one.
+Hi there, I'm <b>Muqeet Mughal</b>, A Self Taught Full Stack Developer and a Computer Science Student 🚀  from <b>Lahore Garrison University</b>. I've been developing websites and experimenting with web technologies since I was 14 and honestly I love messing up with code and coming up with better solutions than the previous one.
 Here is my portfolio website:
 
 <h3>
-    I am an aspiring Web Application and Mobile Application Developer
+    I am an aspiring Full Stack Developer
 </h3>
 
-- 🌱 Ask me about <b>Django, FastAPI, React, React Native,Flutter, Vue.js, Angular , Blockchain, Web3, MERN Stack, Mobile development</b>
-- 👯 I’m looking to collaborate on any Web Devlopment or Frontend Project
+- 🌱 Ask me about <b>Django, FastAPI, React,Frappe ERPNext, Odoo, ERP Implementation</b>
+- 👯 I’m looking to collaborate on any ERP projects.
 - 📫 Mail me at muqeetmughal786@gmail.com
-- 🙆‍♂️ Check out my [Portfolio](https://muqeet.dev/)
+- 🙆‍♂️ Check out my [Portfolio](https://infintrixtech.com/case-studies)
 - ⚡ Fun fact: My body is surviving on coffee. You can buy me one on [BuyMeACoffee](https://buymeacoffee.com/muqeet)
 
 <h3>How to reach me?!</h3>
 
-- Feel free to reach me out on any platforms listed [here!](https://dev.page/muqeetmughal)
+- Feel free to reach me out on any platforms listed [here!](https://infintrixtech.com)
 
 <h3>
     📕 Blogs and Articles
 </h3>
 
-- Check out my blogs on [Blog](https://muqeet.dev/blog)
+- Check out my blogs on [Blog](https://infintrixtech.com/blog)
 
 
 \
