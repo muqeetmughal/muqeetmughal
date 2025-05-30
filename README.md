@@ -1,5 +1,5 @@
 
-<img align="center" width="900" height="50" src="https://readme-typing-svg.herokuapp.com?font=Rubik Doodle Shadow&color=%23FFC107&size=45&center=true&vCenter=true&lines=Muqeet%20Mughal" />
+<img align="center" width="900" height="50" src="https://readme-typing-svg.herokuapp.com/?font=Rubik%20Doodle%20Shadow&color=%23FFC107&size=45&center=true&vCenter=true&lines=Muqeet%20Mughal" />
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
