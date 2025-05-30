@@ -6,7 +6,7 @@
 <h3>Glad to see you here!</h3>  
 
 <br />
-Hi there, I'm <b>Muqeet Mughal</b>, A Self Taught Full Stack Developer and a Computer Science Student 🚀  from <b>Lahore Garrison University</b>. I've been developing websites and experimenting with web technologies since I was 14 and honestly I love messing up with code and coming up with better solutions than the previous one.
+Hi there, I'm <b>Muqeet Mughal</b>, A Self Taught Full Stack Developer. I've been developing websites and experimenting with web technologies since I was 14 and honestly I love messing up with code and coming up with better solutions than the previous one.
 Here is my portfolio website:
 
 <h3>
