@@ -1,6 +1,5 @@
 
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I am, </h1>
-<img align="center" width="900" height="50" src="https://readme-typing-svg.herokuapp.com?font=Rubik Doodle Shadow&color=%23FFC107&size=45&center=true&vCenter=true&lines=Muqeet%20Mughal" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tourney&weight=300&size=30&duration=2000&pause=1000&color=00F726&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Muqeet+Mughal;Full+Stack+Developer;CEO+%40+infintrixtech.com;Frappe+ERPNext;Business+Workflow+Automation)](https://git.io/typing-svg)
 
