@@ -1,7 +1,7 @@
 
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I am, </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&weight=300&size=30&duration=2000&pause=1000&color=00F726&background=FFFFFF00&vCenter=true&width=800&lines=Muqeet+Mughal;Full+Stack+Developer+with+Python+%26+React;CEO+%40+infintrixtech.com;Certified+ERPNext+Consultant;Business+Workflow+Automation+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&weight=300&size=30&duration=2000&pause=1000&color=00F726&background=FFFFFF00&vCenter=true&width=800&lines=Muqeet+Mughal;Full+Stack+Developer+with+Python+%26+React;CTO+%40+infintrixtech.com;Certified+ERPNext+Consultant;Business+Workflow+Automation+Expert)](https://git.io/typing-svg)
 
 <h3>Glad to see you here!</h3>  
 
