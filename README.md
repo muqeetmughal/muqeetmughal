@@ -1,226 +1,164 @@
+<div align="center">
 
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I am, </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00c6ff&height=220&section=header&text=Hi,%20I'm%20Muqeet%20Mughal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ERPNext%20Expert%20%7C%20CTO%20@%20Infintrix%20%7C%20Vibe%20Coding%20with%20AI&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&weight=300&size=30&duration=2000&pause=1000&color=00F726&background=FFFFFF00&vCenter=true&width=800&lines=Muqeet+Mughal;Full+Stack+Developer+with+Python+%26+React;CTO+%40+infintrixtech.com;Certified+ERPNext+Consultant;Business+Workflow+Automation+Expert)](https://git.io/typing-svg)
+<a href="https://infintrixtech.com"><img src="https://img.shields.io/badge/Infintrix_Technologies-CTO%20%2F%20Lead%20Engineer-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://alpineerp.com"><img src="https://img.shields.io/badge/AlpineERP-Founder%20%2F%20Builder-00c6ff?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ERPNext-Expert-00A1E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vibe%20Coding-with%20Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 
-<h3>Glad to see you here!</h3>  
-
-<br />
-Hi there, I'm <b>Muqeet Mughal</b>, A Self Taught Full Stack Developer. I've been developing websites and experimenting with web technologies since I was 14 and honestly I love messing up with code and coming up with better solutions than the previous one.
-Here is my portfolio website:
-
-<h3>
-    I am an aspiring Full Stack Developer
-</h3>
-
-- 🌱 Ask me about <b>Django, FastAPI, React,Frappe ERPNext, Odoo, ERP Implementation</b>
-- 👯 I’m looking to collaborate on any ERP projects.
-- 📫 Mail me at muqeetmughal786@gmail.com
-- 🙆‍♂️ Check out my [Portfolio](https://infintrixtech.com/case-studies)
-- ⚡ Fun fact: My body is surviving on coffee. You can buy me one on [BuyMeACoffee](https://buymeacoffee.com/muqeet)
-
-<h3>How to reach me?!</h3>
-
-- Feel free to reach me out on any platforms listed [here!](https://infintrixtech.com)
-
-<h3>
-    📕 Blogs and Articles
-</h3>
-
-- Check out my blogs on [Blog](https://infintrixtech.com/blog)
-
-
-\
-&nbsp;
-
-# :man_technologist: Languages and Tools
+</div>
 
 <br>
 
-> Tools, languages, and other things that I like to work with.
+## About Me
 
-<table align="center">
+I'm a self-taught full-stack developer who's been building on the web since I was 14. Today I lead engineering at **[Infintrix Technologies](https://infintrixtech.com)** as CTO, and I'm building **[AlpineERP](https://alpineerp.com)** — my own cloud-based ERP product — on the side.
+
+I'm an **ERPNext expert** — I build custom Frappe apps, design Frappe themes, and handle end-to-end ERPNext implementations for clients. These days I ship a lot of that through **AI-assisted / "vibe coding"** with Claude, moving fast from idea to working app.
+
+- 🏢 **CTO / Lead Software Engineer** at Infintrix Technologies — ERPNext implementation, business workflow automation, and custom Frappe apps & themes for clients.
+- 🚀 Building **[AlpineERP](https://alpineerp.com)** — a cloud ERP service, from the ground up.
+- 🤖 Building a lot with **Claude & AI-assisted "vibe coding"** — from custom Frappe apps to full products.
+- 💬 Ask me about **ERPNext / Frappe, custom app & theme development, Odoo, and ERP implementation**.
+- 📫 Reach me at **muqeetmughal786@gmail.com** or via **[infintrixtech.com](https://infintrixtech.com)**.
+- ☕ Fun fact: this profile runs on coffee — [buy me one](https://buymeacoffee.com/muqeet).
+
+<br>
+
+## Tech Stack
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,postgres,mysql,mongodb,docker,git,linux,tailwind&theme=dark" />
+
+**Backend & APIs**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**ERP & Business Automation**
+
+![Frappe](https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+**AI / LLM & Agents**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-2C5364?style=for-the-badge&logoColor=white)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br>
+
+## Featured Projects
+
+<table>
   <tr>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muqeetmughal/Infintrix-Atlas">Infintrix Atlas</a></h3>
+      Project management solution for Frappe / ERPNext — a Jira-style workflow built natively into the framework.
+      <br><br>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-Frappe-00A1E0?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Open%20Source-2ea44f?style=flat-square"/>
     </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-     <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="102" height="48" alt="Fast API" />
-      </a>
-      <br>Fast API
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-       <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-	<td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material UI
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muqeetmughal/Scrutin">Scrutin</a></h3>
+      Open-source AI-powered talent sourcing & skills assessment platform built on Frappe/ERPNext + FrappeHR.
+      <br><br>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-AI%20Powered-412991?style=flat-square"/>
     </td>
   </tr>
-  
   <tr>
-    <td align="center" width="96"> 
-      <a href="#muqeetmughal" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
-      </a>
-      <br>C Lang
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muqeetmughal/barq_pos">BarqPOS</a></h3>
+      A fast, modern Point of Sale system built on Frappe & ERPNext, designed for high-speed, real-world retail operations.
+      <br><br>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Retail%20%2F%20POS-714B67?style=flat-square"/>
     </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center"  width="96">
-      <a href="#muqeetmughal">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-    <td align="center"  width="96">
-      <a href="#muqeetmughal">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96"> 
-      <a href="#muqeetmughal" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center"  width="96">
-      <a href="#muqeetmughal">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="40" alt="VS Code" />
-      </a>
-      <br>VS Code
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muqeetmughal/zkt_integration">ZKT Integration</a></h3>
+      A Frappe app for Frappe HRMS that syncs biometric employee check-ins directly from ZKTeco devices.
+      <br><br>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-HRMS-2C5364?style=flat-square"/>
     </td>
   </tr>
-   <tr>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muqeetmughal/frappe_debug">Frappe Debug</a></h3>
+      A Frappe app that helps with debugging while developing on the framework.
+      <br><br>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-Dev%20Tooling-0089FF?style=flat-square"/>
     </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://images.ctfassets.net/qcrphhesuv4n/6cZj9wicrfq7gQwyYy7RcI/9ec870532475e09f72bb1c7143a4564b/1_p1TndLk3UsGPBsM7qHPZIw.png?w=294&h=175&q=50&fm=png" width="48" height="48" alt="StyledComponents" />
-      </a>
-      <br>Styled Components
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg" width="48" height="48" alt="Heroku" />
-      </a>
-      <br>Heroku
-    </td>
-    <td align="center" width="96">
-      <a href="#muqeetmughal">
-        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-     <td align="center" width="96"> 
-      <a href="#muqeetmughal" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-          <td align="center" width="96"> 
-      <a href="#muqeetmughal" >
-        <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" width="80" height="48" alt="Illustrator" />
-      </a>
-      <br>Illustrator
-    </td>
-             <td align="center" width="96"> 
-      <a href="#muqeetmughal" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>G Cloud
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muqeetmughal/db_tools">DB Tools</a></h3>
+      A Frappe app for database-level tools and utilities.
+      <br><br>
+      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Dev%20Tooling-0089FF?style=flat-square"/>
     </td>
   </tr>
-    
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muqeetmughal/frappe_email_designer">Frappe Email Designer</a></h3>
+      An email template designer for Frappe Framework / ERPNext.
+      <br><br>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-ERPNext-0089FF?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muqeetmughal/customer_portal">Customer Portal</a></h3>
+      A self-service customer portal app built on Frappe / ERPNext.
+      <br><br>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-ERPNext-0089FF?style=flat-square"/>
+    </td>
+  </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/muqeetmughal?tab=repositories">See all repositories →</a>
+</p>
 
-## Web Performance Stats
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=muqeetmughal&theme=tokyonight&hide_border=true" width="65%"/>
+
+</div>
+
+<br>
+
+## Let's Connect
 
 <p align="center">
-    <img src="./stat.png" width="800px">
+  <a href="https://infintrixtech.com"><img src="https://img.shields.io/badge/Website-Infintrix%20Tech-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://alpineerp.com"><img src="https://img.shields.io/badge/Product-AlpineERP-00c6ff?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
+  <a href="https://infintrixtech.com/blog"><img src="https://img.shields.io/badge/Blog-Read%20Articles-FF4500?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="mailto:muqeetmughal786@gmail.com"><img src="https://img.shields.io/badge/Email-muqeetmughal786%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://buymeacoffee.com/muqeet"><img src="https://img.shields.io/badge/Buy%20me%20a-Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
 </p>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/muqeetmughal/count.svg" />  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muqeetmughal&style=for-the-badge&color=0F2027&label=PROFILE+VIEWS"/>
 </p>
+
+</div>
